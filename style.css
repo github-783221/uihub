@@ -21,7 +21,7 @@ a{
     padding: auto;
 }
 .banner_sec{
-    background-image: url(/Images/WhatsApp\ Image\ 2021-11-15\ at\ 5.41.09\ PM\ \(1\).jpeg);
+    background-image: url(https://res.cloudinary.com/dcyl2e4al/image/upload/v1637438493/WhatsApp_Image_2021-11-15_at_5.41.09_PM_1_nvfjby.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;  
@@ -60,7 +60,7 @@ a{
     top: 30px;
 }
 .thrd-sec{
-    background-image: url(/Images/WhatsApp\ Image\ 2021-11-15\ at\ 5.41.10\ PM.jpeg);
+    background-image: url(https://res.cloudinary.com/dcyl2e4al/image/upload/v1637438496/WhatsApp_Image_2021-11-15_at_5.41.10_PM_qukj3g.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: max-content;
