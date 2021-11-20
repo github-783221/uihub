@@ -1,0 +1,123 @@
+.menu{
+    background-color: black;
+}
+body{
+    margin: 0%;
+}
+li{
+    display: inline-block;
+}
+.nav-link{
+    color: white;
+    padding: 5px;
+    font-size: small;
+}
+.nav-link:hover{
+    background-color:rgb(248, 39, 39);
+    text-align: center;
+    padding: 10px;
+}
+a{
+    padding: auto;
+}
+.banner_sec{
+    background-image: url(/Images/WhatsApp\ Image\ 2021-11-15\ at\ 5.41.09\ PM\ \(1\).jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;  
+}
+.p-top-rel{
+    position: relative;
+    top: 325px;
+}
+.ban_head{
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.about_sec{
+    width: 100%;
+    height: max-content;
+    background-color: blue;
+}
+.about_div{
+    position: absolute;
+    width: 100%;
+}
+.h_abt{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 30px;   
+}
+.h_about{
+    color: white;
+    font-size: 25;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.thrd-sec{
+    background-image: url(/Images/WhatsApp\ Image\ 2021-11-15\ at\ 5.41.10\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: max-content;
+}
+.btn-involved{
+    width: 35%;
+    height: 35px;
+    background: #FF8008;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFC837, #FF8008);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFC837, #FF8008); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border: 0px;
+}
+.frth-sec{
+    background-color: white;
+    /* width: auto; */
+    height: max-content;
+}
+.frth-h{
+    font-weight: bolder;
+
+}
+.p-rl{
+    position: relative;
+    top: 100px;
+}
+.srt-h{
+    font-weight: bolder;
+}
+.b-h{
+    font-weight: bolder;
+    font-size: large;
+}
+.fifth-sec{
+    background-color: #171361;
+    width: 100%;
+    height: 500px;
+}
+.h-sml{
+    font-size: small;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 50px;
+}
+.h-lrg{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.sixth-sec{
+    background-color: aquamarine;
+    width: 100%;
+    height: 600px;
+}
+.apple-hover:hover{
+    color: red;
+}
